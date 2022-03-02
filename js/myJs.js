@@ -1,16 +1,16 @@
 const textConfig = {
-  text1: "He luu c?u!",
-  text2: "T? c� di?u n�y mu?n h?i c?u nh? ph?i tr? l?i th?t l�ng nhaaa.",
-  text3: "C?u y�u t? c� ph?i kh�ng n�o ._.",
-  text4: "N?u c?u ko tr? l?i m� tho�t ra t?c l� mu?n l�m v? t? r�i d� nha :v",
-  text5: "C?u mo �???",
-  text6: "Y�u oi l� y�u <3",
-  text7: "l� do c?u th�ch t? di :vvvv",
-  text8: "G?i cho t? <3",
-  text9: "V� c?u d?p try vlllll",
-  text10: "T? bi?t m� ^^ Y�u c?u 300.000",
+  text1: "He luu cậu!",
+  text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Cậu yêu tớ có phải không nào ._.",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tớ rùi đó nha :v",
+  text5: "Cậu mơ à???",
+  text6: "Yêu ơi là yêu <3",
+  text7: "lí do cậu thích tớ đi :vvvv",
+  text8: "Gửi cho tớ <3",
+  text9: "Vì cậu đẹp try vlllll",
+  text10: "Tớ biết mà ^^ Yêu cậu 300.000",
   text11:
-    "T?i nay t? qua d�n c?u di choi nhaa :v C�n gi? th� ch? g� n?a m� ko inbox cho t? di n�ooo",
+    "Tối nay tớ qua đón cậu đi chơi nhaa :v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
   text12: "Okii lunn <3",
 };
 
@@ -58,7 +58,7 @@ $(document).ready(function () {
     $("#yes").css("left", leftNo);
     $("#yes").css("top", topNO);
   }
-  // move random button p�ition
+  // move random button póition
   function moveButton() {
     var audio = new Audio("sound/Swish1.mp3");
     audio.play();
